@@ -1,0 +1,5 @@
+[requires]
+    tests/0.2.3@zxvcv-conan+tests/testing
+
+[generators]
+    cmake

@@ -1,0 +1,6 @@
+
+[requires]
+    fifo/[<1.0.0]@zxvcv-conan+fifo/testing
+
+[generators]
+    cmake
